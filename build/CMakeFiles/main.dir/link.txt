@@ -1,0 +1,1 @@
+/usr/bin/cc      CMakeFiles/main.dir/ae.c.o CMakeFiles/main.dir/ae_select.c.o CMakeFiles/main.dir/anet.c.o CMakeFiles/main.dir/main.c.o CMakeFiles/main.dir/zmalloc.c.o CMakeFiles/main.dir/ae_epoll.c.o CMakeFiles/main.dir/utils/log_util.c.o CMakeFiles/main.dir/utils/comm_utils.c.o  -o bin/main -rdynamic 

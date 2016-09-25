@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+.././utils/log_util.h
+
+/home/blastbao/workspace/redis-network/ae.h
+time.h
+-
+stdlib.h
+-
+
+/home/blastbao/workspace/redis-network/anet.h
+
+/home/blastbao/workspace/redis-network/main.c
+stdio.h
+-
+errno.h
+-
+signal.h
+-
+string.h
+-
+ae.h
+/home/blastbao/workspace/redis-network/ae.h
+anet.h
+/home/blastbao/workspace/redis-network/anet.h
+log_util.h
+/home/blastbao/workspace/redis-network/log_util.h
+
